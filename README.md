@@ -14,8 +14,8 @@
 
 ### ⚡️ В настоящее время ⚡️
 - Основаной язык - Python
-- Изучаю Data Science
+- Будущий Data Scientist
 
-###🙌🏻 Свяжись со мной
-[Telegram]()
+### 🙌🏻 Свяжись со мной
+[Telegram](https://t.me/rrrxsk)
 
