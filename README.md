@@ -5,16 +5,20 @@
   - Бакалавр: 01.03.04 - Прикладная математика;
   - 📕 Диплом на 5 📕 (Кликни [сюда](https://github.com/Ildar-Shamaev/My_projects/blob/main/Shamaev_-_osn_2.pdf) чтобы посмотреть);
   - 🤖 В универе изучал и проектировал на C++
+
   
 ### 📚 Проекты 📚
+  - (Кликни [сюда](https://github.com/Ildar-Shamaev/My_projects) чтобы посмотреть)
 
 
 ### 💡 Основные компетенции 💡
 - Инструменты: Git, Python, C++
 
+
 ### ⚡️ В настоящее время ⚡️
 - Основаной язык - Python
 - Будущий Data Scientist
+
 
 ### 🙌🏻 Свяжись со мной
 [Telegram](https://t.me/rrrxsk)
