@@ -1,16 +1,21 @@
-## Hi there 👋
+### Привет! 👋
 
-<!--
-**Ildar-Shamaev/Ildar-Shamaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###✨ Обо мне за 30 секунд ✨ 
+*🎓 Уфимский университет науки и технологий (УУНиТ):
+  - Бакалавр: 01.03.04 - Прикладная математика;
+  - 📕 Диплом на 5 📕 (Кликни сюда чтобы посмотреть);
+  - 🤖 В универе изучал и проектировал на C++
+  
+### 📚 Проекты 📚
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Основные компетенции 💡
+- Инструменты: Git, Python, C++
+
+### ⚡️ В настоящее время ⚡️
+- Основаной язык - Python
+- Изучаю Data Science
+
+###🙌🏻 Свяжись со мной
+[Telegram]()
+
