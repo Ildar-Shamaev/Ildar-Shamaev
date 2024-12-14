@@ -16,8 +16,8 @@
 
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Git, Python, NumPy, Pandas, SQL
-- Инструменты: С++
+- Инструменты: [Git](https://github.com/Ildar-Shamaev), [Python](https://github.com/Ildar-Shamaev/Python), [NumPy](https://github.com/Ildar-Shamaev/Python/tree/main/PY_07_NumPy), [Pandas](https://github.com/Ildar-Shamaev/Python/tree/main/PY_08_Pandas), [SQL](https://github.com/Ildar-Shamaev/SQL)
+- Инструменты: [С++](https://github.com/Ildar-Shamaev/University)
 
 ### ⚡️ В настоящее время ⚡️
 - Основаной язык - Python
