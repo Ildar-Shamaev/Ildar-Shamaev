@@ -16,7 +16,7 @@
 
 
 ### 💡 Основные компетенции 💡
-- Инструменты: [Git](https://github.com/Ildar-Shamaev), [Python](https://github.com/Ildar-Shamaev/Python), [NumPy](https://github.com/Ildar-Shamaev/Python/tree/main/PY_07_NumPy), [Pandas](https://github.com/Ildar-Shamaev/Python/tree/main/PY_08_Pandas), [SQL](https://github.com/Ildar-Shamaev/SQL), [EDA](https://github.com/Ildar-Shamaev/EDA)
+- Инструменты: [Git](https://github.com/Ildar-Shamaev), [Python](https://github.com/Ildar-Shamaev/Python), [SQL](https://github.com/Ildar-Shamaev/SQL), [EDA](https://github.com/Ildar-Shamaev/EDA)
 - Инструменты: [С++](https://github.com/Ildar-Shamaev/University)
 
 ### ⚡️ В настоящее время ⚡️
