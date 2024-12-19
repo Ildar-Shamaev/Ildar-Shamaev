@@ -13,6 +13,7 @@
   - Проекты на Python (Кликни [сюда](https://github.com/Ildar-Shamaev/Python/tree/main/projects) чтобы посмотреть)
   - Проект на SQL (Кликни [сюда](https://github.com/Ildar-Shamaev/SQL) чтобы посмотреть)
   - Проекты по EDA (Кликни [сюда](https://github.com/Ildar-Shamaev/EDA/tree/main/projects) чтобы посмотреть)
+  - Проекты Kaggle (Кликни [сюда](https://github.com/Ildar-Shamaev/Kaggle) чтобы посмотреть)
 
 
 ### 💡 Основные компетенции 💡
